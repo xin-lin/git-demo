@@ -1,0 +1,7 @@
+
+
+  i 键得打出来,才可以插入
+  按esc后才可以退出 ，在那行按 yy，后在按 p就可以复制粘贴
+  最后要保存可以按 wq 
+hello world  
+hello world  
