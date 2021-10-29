@@ -8,4 +8,8 @@
    cat hello.txt 查看文件信息
 
 hello 11  
-hello   
+hello  
+hello
+hello
+hello
+hello
