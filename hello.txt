@@ -4,6 +4,8 @@
   按esc后才可以退出 ，在那行按 yy，后在按 p就可以复制粘贴
   最后要保存可以按 :wq
   后面要修改的话 就重新点击 vim + 文件名
-  
+
+   cat hello.txt 查看文件信息
+
 hello world  
 hello world  
