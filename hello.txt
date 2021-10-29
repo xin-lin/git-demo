@@ -7,5 +7,5 @@
 
    cat hello.txt 查看文件信息
 
-hello world  
-hello world  
+hello 11  
+hello   
